@@ -3,20 +3,20 @@
 To execute: Run dms.py and copy paste the address in browser
 
 Tools : Flask, Jinja, SQL Alchemy, Python, HTML, CSS, JS
-Primitive Process:
+# Primitive Process:
 
 -All the Institutes/ Departments under the Ministry are using some common file/document movement and approval procedures. The physical movement of such files/ documents has many disadvantages.
 -When a document file is under process of approval, the location of the file document where it has been delayed on the way while moving from table to table, is very difficult to trace. The status of a document/ file which has been initiated is not traceable until it returns back to the parent section/ Office.
 
 
-Object Model: 
+# Object Model: 
 
 -Web server based on Flask
 -Template engine based on Jinja
 -Database integration based on SQL Alchemy
 
 
-Process: 
+# Process: 
 
 -Created a server using python
 -Created a User-friendly environment(webpage) for forwarding, rejection/ approval of documents/ files in e-format
@@ -24,7 +24,7 @@ Process:
 -Creating a messages section for direct messaging the end user/ government officers for the more info about rejection.
 
 
-Hierarchy of approval:
+# Hierarchy of approval:
 
 Tahsildar
 Head Quarter's Deputy Tahsildar(HQDT)
@@ -32,7 +32,7 @@ Regional Inspector (RI)
 Village Administrative Officer(VAO)
 
 
-End User/ Government Officer Experience:
+# End User/ Government Officer Experience:
  
 -Register in the webpage
 -Log in to the webpage
@@ -46,7 +46,7 @@ End User/ Government Officer Experience:
 -Log out
 
 
-E-file:
+# E-file:
 
 -There is no chance of missing files, even if they are missed, they can be re-transmitted
 -Individual cannot access files since they are securely stored in server’s database
