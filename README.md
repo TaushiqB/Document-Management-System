@@ -1,4 +1,4 @@
-# Document-Management-System
+# eGOV-Pulse ( Document Management System )
  
 To execute: Run dms.py and copy paste the address in browser
 
